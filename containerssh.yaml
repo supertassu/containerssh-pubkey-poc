@@ -1,0 +1,6 @@
+ssh:
+  hostkeys:
+    - /var/run/secrets/host.key
+auth:
+  password: false
+  url: http://authserver/
